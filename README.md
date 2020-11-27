@@ -1,8 +1,7 @@
-# Creativity_Station
-### Global Service Learning Idea & Design Competition
+# Creativity_Station (Global Service Learning Idea & Design Competition)
 ### Subject : Manageable Temperature Sensor using IoT.
 
-### Materials
+#### Materials
 1. Wemos D1 R1 (esp8266 wifi module)
 2. DHT22 (Temperature & Humidity sensor)
 3. LCD 20x4
